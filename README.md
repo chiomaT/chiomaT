@@ -10,7 +10,7 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
 
 
 <h2> About Me </h2>
- - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer
+ - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br />
  - 🌱 I have gained 2 years hands on experience working with javascript
  - 🌱 I’m currently working with Node, express, reactJs and typescript
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
