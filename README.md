@@ -12,7 +12,7 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
  - 🌱 I have gained 2 years hands on experience working with javascript
  - 🌱 I’m currently working with Node, express, reactJs and typescript
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
- - 💬 Ask me about react hooks, Tailwind, css, node, express and Typescript...
+ - 💬 Ask me about react hooks, Tailwindcss, css, node, express and Typescript...
  - 😀 Fun fact: I love painting and lisening to good music.
 ## 🛠️ Technologies
 <p>
