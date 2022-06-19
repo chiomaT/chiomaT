@@ -7,6 +7,8 @@ Ask me anything <a href="https://github.com/chukshon/chukshon/issues/new"><b>her
 or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
 <i>Happy Coding!</i> 😊
 </div>
+
+
 <h2> About Me </h2>
  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer
  - 🌱 I have gained 2 years hands on experience working with javascript
@@ -14,6 +16,7 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
  - 💬 Ask me about react hooks, Tailwindcss, css, node, express and Typescript...
  - 😀 Fun fact: I love painting and lisening to good music.
+
 
 <h2> 🛠️ Technologies </h2>
 <p>
@@ -36,6 +39,9 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <p>
+ 
+ 
+ 
 <h2> Have questions? say hi <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
  <p><a href="https://www.github.com/chiomaT" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chiomaT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
