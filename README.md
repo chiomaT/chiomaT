@@ -13,7 +13,7 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
  - 🌱 I’m currently working with Node, express, reactJs and typescript
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
  - 💬 Ask me about react hooks, Tailwind, css, node, express and Typescript...
- - 😀 Fun fact: I love playing painting.
+ - 😀 Fun fact: I love painting and lisening to good music.
 ## 🛠️ Technologies
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
