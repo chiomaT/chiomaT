@@ -14,7 +14,8 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
  - 👯 I’m looking to collaborate on Web development and Open Source Projects.
  - 💬 Ask me about react hooks, Tailwindcss, css, node, express and Typescript...
  - 😀 Fun fact: I love painting and lisening to good music.
-## 🛠️ Technologies
+
+<h2> 🛠️ Technologies </h2>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
