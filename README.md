@@ -14,7 +14,7 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
  - 🌱 I have 2 plus years of hands-on experience working with javascript and typescript<br />
  - 🌱 I’m currently working with React, React native, Redux, Javascript and typescript<br />
  - 👯 I’m looking to collaborate on Web and mobile app development, and Open Source Projects.<br />
- - 💬 Ask me about  Javascript, typescript, react hooks, React, Reat native, Redux, MongoDB, Tailwindcss, CSS, node, express and Docker...<br />
+ - 💬 Ask me about  Javascript, typescript, react hooks, React, React native, Redux, MongoDB, Tailwindcss, CSS, node, express and Docker...<br />
  - 😀 Fun fact: I love painting and listening to good music.
 
 
