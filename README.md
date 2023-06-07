@@ -10,12 +10,12 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
 
 
 <h2> About Me </h2>
- - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br />
- - 🌱 I have gained 2 years hands on experience working with javascript<br />
- - 🌱 I’m currently working with Node, express, reactJs and typescript<br />
- - 👯 I’m looking to collaborate on Web development and Open Source Projects.<br />
- - 💬 Ask me about react hooks, Tailwindcss, css, node, express and Typescript...<br />
- - 😀 Fun fact: I love painting and lisening to good music.
+<!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
+ - 🌱 I have 2 plus years of hands-on experience working with javascript and typescript<br />
+ - 🌱 I’m currently working with React, React native, Redux, Javascript and typescript<br />
+ - 👯 I’m looking to collaborate on Web and mobile app development, and Open Source Projects.<br />
+ - 💬 Ask me about  Javascript, typescript, react hooks, React, Reat native, Redux, MongoDB, Tailwindcss, CSS, node, express and Docker...<br />
+ - 😀 Fun fact: I love painting and listening to good music.
 
 
 <h2> 🛠️ Technologies </h2>
