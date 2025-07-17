@@ -13,7 +13,6 @@ or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
  - 🌱 I have 4 years of hands-on experience working with javascript and typescript<br />
  - 🌱 I’m currently working with React, React native, Redux, Node,js, Express.js, Javascript and typescript <br />
- - 👯 I’m looking to collaborate on Web and mobile app development, and Open Source Projects.<br />
  - 💬 Ask me about  Javascript, Typescript, Node,js, Express.js, React hooks, React, React native, Redux, MongoDB, Tailwindcss, CSS, and Docker...<br />
  - 😀 Fun fact: I love painting and listening to good music.
 
