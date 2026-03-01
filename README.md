@@ -4,11 +4,13 @@
 
 <h2> About Me </h2>
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
-<h2>🔭 Currently </h2>
-Working as a Senior Software Engineer at Century group, Building internal tools for optimizing processes in the oil and gas sector and bespoke solutions for external clients
+<ul><li>🔭 Currently:</li></ul>
 
+Working as a Senior Software Engineer at Century group, engineering 
+robust internal tools that optimize critical workflows in the oil and gas sector, 
+while also delivering bespoke, high-performance software solutions for external clients across E-commerce and Fintech.
 
-<h2>🛠️ Tech Stack</h2>
+<ul><li>🛠️ Tech Stack:</li></ul>
 <ul>
   <li><strong>Languages:</strong> JavaScript, TypeScript, C#</li>
   <li><strong>Frontend:</strong> Angular, React, React Native</li>
