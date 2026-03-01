@@ -11,7 +11,7 @@
     high-performance software solutions for external clients across E-commerce and Fintech.</p>
   </li>
 
-  <li><strong>🛠️ Tech Stack</strong>
+  <li><strong>🛠️ Tech Stack <br/></strong>
     <ul>
       <li>Languages: JavaScript, TypeScript, C#</li>
       <li>Frontend: Angular, React, React Native</li>
@@ -24,7 +24,7 @@
 
 
 
-  <li><strong>💡 What I'm Passionate About</strong>
+  <li><strong>💡 What I'm Passionate About <br/> </strong>
     <ul>
       <li>Crafting impactful, scalable solutions that solve real-world problems using modern technologies</li>
       <li>Tackling complex technical challenges and turning them into clean, maintainable code</li>
