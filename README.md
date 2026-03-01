@@ -14,8 +14,9 @@
   <li><strong>🛠️ Tech Stack <br/></strong>
     <ul>
       <li>Languages: JavaScript, TypeScript, C#</li>
-      <li>Frontend: Angular, React, React Native</li>
+      <li>Frontend: Angular, React </li>
       <li>Backend: Node.js, .NET Core</li>
+      <li>Mobile: React Native</li>
       <li>Databases: MySQL, SQL Server, MongoDB</li>
       <li>Cloud: Heroku, AWS</li>
     </ul>
