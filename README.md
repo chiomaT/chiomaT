@@ -5,35 +5,31 @@
 <h2> 🌟 About Me </h2>
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
 <ul>
-  <li><strong>🔭 Currently</strong></li>
-</ul>
-<p>
-  Working as a Senior Software Engineer at Century Group, engineering robust internal tools 
-  that optimize critical workflows in the oil and gas sector, while also delivering bespoke, 
-  high-performance software solutions for external clients across E-commerce and Fintech.
-</p>
+  <li><strong>🔭 Currently</strong>
+    <p>Working as a Senior Software Engineer at Century Group, engineering robust internal tools 
+    that optimize critical workflows in the oil and gas sector, while also delivering bespoke, 
+    high-performance software solutions for external clients across E-commerce and Fintech.</p>
+  </li>
 
-<ul>
-  <li><strong>🛠️ Tech Stack</strong></li>
-</ul>
-<ul>
-  <li><strong>Languages:</strong> JavaScript, TypeScript, C#</li>
-  <li><strong>Frontend:</strong> Angular, React, React Native</li>
-  <li><strong>Backend:</strong> Node.js, .NET Core</li>
-  <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
-  <li><strong>Cloud:</strong> Heroku, AWS</li>
-</ul>
+  <li><strong>🛠️ Tech Stack</strong>
+    <ul>
+      <li>Languages: JavaScript, TypeScript, C#</li>
+      <li>Frontend: Angular, React, React Native</li>
+      <li>Backend: Node.js, .NET Core</li>
+      <li>Databases: MySQL, SQL Server, MongoDB</li>
+      <li>Cloud: Heroku, AWS</li>
+    </ul>
+  </li>
 
-<ul>
-  <li><strong>💡 What I'm Passionate About</strong></li>
+  <li><strong>💡 What I'm Passionate About</strong>
+    <ul>
+      <li>Crafting impactful, scalable solutions that solve real-world problems using modern technologies</li>
+      <li>Tackling complex technical challenges and turning them into clean, maintainable code</li>
+      <li>Collaborating with cross-functional teams to deliver high-quality software that drives business value</li>
+      <li>Continuously learning and staying ahead of emerging trends in software engineering</li>
+    </ul>
+  </li>
 </ul>
-<ul>
-  <li>Crafting impactful, scalable solutions that solve real-world problems using modern technologies</li>
-  <li>Tackling complex technical challenges and turning them into clean, maintainable code</li>
-  <li>Collaborating with cross-functional teams to deliver high-quality software that drives business value</li>
-  <li>Continuously learning and staying ahead of emerging trends in software engineering</li>
-</ul>
-
  
  
  
