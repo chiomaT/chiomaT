@@ -1,47 +1,36 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Chioma!;I'm+a+Software-Engineer)](https://git.io/typing-svg)
-<div align="center">
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/chiomaT/chiomaT/issues/new"><b>here</b></a><br>
-or <a href="mailto:chiomanwabugwu12@gmail.com"><b>email</b></a> me
-<i>Happy Coding!</i> 😊
-</div>
+### Hi there 👋, I'm Chioma Theresa Nwabugwu
 
+<h2> Welcome to my GitHub profile! I’m a passionate Full-Stack Developer  with over 4 years of experience building scalable web applications and solving real-world problems. </h2>
 
 <h2> About Me </h2>
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
- - 🌱 I have 4 years of hands-on experience working with javascript and typescript<br />
- - 🌱 I’m currently working with React, React native, Redux, Node,js, Express.js, Javascript and typescript <br />
- - 💬 Ask me about  Javascript, Typescript, Node,js, Express.js, React hooks, React, React native, Redux, MongoDB, Tailwindcss, CSS, and Docker...<br />
- - 😀 Fun fact: I love painting and listening to good music.
+<h2>🔭 Currently </h2>
+Working as a Senior Software Engineer at Century group, Building internal tools for optimizing processes in the oil and gas sector and bespoke solutions for external clients
 
 
-<h2> 🛠️ Technologies </h2>
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Languages:</strong> JavaScript, TypeScript, C#</li>
+  <li><strong>Frontend:</strong> Angular, React, React Native</li>
+  <li><strong>Backend:</strong> Node.js, .NET Core</li>
+  <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
+  <li><strong>Cloud:</strong> Heroku, AWS</li>
+</ul>
+
+<h2>💡 What I'm Passionate About</h2>
+<ul>
+  <li> Crafting impactful, scalable solutions that solve real-world problems using modern technologies</li>
+  <li> Tackling complex technical challenges and turning them into clean, maintainable code</li>
+  <li> Collaborating with cross-functional teams to deliver high-quality software that drives business value</li>
+  <li> Continuously learning and staying ahead of emerging trends in software engineering</li>
+</ul>
+
+ 
+ 
+ 
+<h2>📬 Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
 <p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<p>
- 
- 
- 
-<h2> Have questions? say hi <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
- <p><a href="https://www.github.com/chiomaT" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chiomaT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/chiomaT/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chiomanwabugwu12@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
