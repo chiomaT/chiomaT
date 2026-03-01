@@ -6,18 +6,18 @@
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
 <ul><li>🔭 Currently:</li></ul>
 
-Working as a Senior Software Engineer at Century group, engineering 
-robust internal tools that optimize critical workflows in the oil and gas sector, 
-while also delivering bespoke, high-performance software solutions for external clients across E-commerce and Fintech.
+    Working as a Senior Software Engineer at Century group, engineering 
+    robust internal tools that optimize critical workflows in the oil and gas sector, 
+    while also delivering bespoke, high-performance software solutions for external clients across E-commerce and Fintech.
 
 <ul><li>🛠️ Tech Stack:</li></ul>
-<ul>
-  <li><strong>Languages:</strong> JavaScript, TypeScript, C#</li>
-  <li><strong>Frontend:</strong> Angular, React, React Native</li>
-  <li><strong>Backend:</strong> Node.js, .NET Core</li>
-  <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
-  <li><strong>Cloud:</strong> Heroku, AWS</li>
-</ul>
+  <ul>
+    <li><strong>Languages:</strong> JavaScript, TypeScript, C#</li>
+    <li><strong>Frontend:</strong> Angular, React, React Native</li>
+    <li><strong>Backend:</strong> Node.js, .NET Core</li>
+    <li><strong>Databases:</strong> MySQL, SQL Server, MongoDB</li>
+    <li><strong>Cloud:</strong> Heroku, AWS</li>
+  </ul>
 
 <h2>💡 What I'm Passionate About</h2>
 <ul>
