@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chioma Theresa Nwabugwu
 
-<h3> Welcome to my GitHub profile! I’m a passionate Full-Stack Developer  with over 4 years of experience building scalable web applications and solving real-world problems. </h2>
+<h3> Welcome to my GitHub profile! I’m a passionate Full-Stack Developer  with over 5 years of experience building scalable web applications and solving real-world problems. </h2>
 
 <h2> 🌟 About Me </h2>
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
