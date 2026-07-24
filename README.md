@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Chioma Theresa Nwabugwu
+### Hi there 👋, I'm Chioma
 
-<h3> Welcome to my GitHub profile! I’m a passionate Full-Stack Developer  with over 5 years of experience building scalable web applications and solving real-world problems. </h2>
+<h3> Welcome to my GitHub profile, I’m a results-driven Full-Stack Software Engineer  with 5 years of experience building scalable web and mobile applications.</h2>
 
 <h2> 🌟 About Me </h2>
 <!--  - 🔭 I’m currently working at <a href="www.decagon.com">Decagon</a> as a Full stack JavaScript developer<br /> -->
 <ul>
   <li><strong>🔭 Currently</strong>
-    <p>Working as a Senior Software Engineer at Century Group, engineering robust internal tools 
+    <p>Working as a Senior Software Engineer at Century Group, where i build and maintain internal tools 
     that optimize critical workflows in the oil and gas sector, while also delivering bespoke, 
-    high-performance software solutions for external clients across E-commerce and Fintech.</p>
+    high-performance software solutions for external clients across E-commerce, Health and Logistics.</p>
   </li>
 
   <li><strong>🛠️ Tech Stack <br/></strong>
